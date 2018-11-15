@@ -1,7 +1,18 @@
 {
   "name": "xcm-react",
-  "version": "0.1.0",
+  "version": "0.0.1",
+  "description": "React implementation for XCM",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xuroth/XCM-React.git"
+  },
+  "author": "Stephan Franz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xuroth/XCM-React/issues"
+  },
+  "homepage": "https://github.com/Xuroth/XCM-React#readme",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
